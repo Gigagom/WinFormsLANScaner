@@ -1,0 +1,9 @@
+D:\Programming\C#\WinFormsLANScaner\WinFormsLANScaner\bin\Debug\WinFormsLANScaner.exe.config
+D:\Programming\C#\WinFormsLANScaner\WinFormsLANScaner\bin\Debug\WinFormsLANScaner.exe
+D:\Programming\C#\WinFormsLANScaner\WinFormsLANScaner\bin\Debug\WinFormsLANScaner.pdb
+D:\Programming\C#\WinFormsLANScaner\WinFormsLANScaner\obj\Debug\WinFormsLANScaner.csprojResolveAssemblyReference.cache
+D:\Programming\C#\WinFormsLANScaner\WinFormsLANScaner\obj\Debug\WinFormsLANScaner.Form1.resources
+D:\Programming\C#\WinFormsLANScaner\WinFormsLANScaner\obj\Debug\WinFormsLANScaner.Properties.Resources.resources
+D:\Programming\C#\WinFormsLANScaner\WinFormsLANScaner\obj\Debug\WinFormsLANScaner.csproj.GenerateResource.Cache
+D:\Programming\C#\WinFormsLANScaner\WinFormsLANScaner\obj\Debug\WinFormsLANScaner.exe
+D:\Programming\C#\WinFormsLANScaner\WinFormsLANScaner\obj\Debug\WinFormsLANScaner.pdb
